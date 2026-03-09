@@ -1,0 +1,11 @@
+supervision
+numpy
+opencv-python
+transformers
+umap-learn
+scikit-learn
+tqdm
+sentencepiece
+protobuf
+ultralytics
+gdown
